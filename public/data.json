@@ -1,0 +1,52 @@
+[
+  {
+    "playerImage": "https://i.ibb.co.com/gZqSW61K/images.webp",
+    "playerName": "Virat Kohli",
+    "PlayerCountry": "India",
+    "playerType": "Batsman",
+    "rating": 92,
+    "batingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 1500000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/qMdvsZgm/licensed-image.webp",
+    "playerName": "Joe Root",
+    "PlayerCountry": "England",
+    "playerType": "Batsman",
+    "rating": 90,
+    "batingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm off break",
+    "price": 1400000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/WpWt56Wb/download.jpg",
+    "playerName": "Babar Azam",
+    "PlayerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "rating": 91,
+    "batingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm off break",
+    "price": 1450000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/XZKxM0zJ/download-1.jpg",
+    "playerName": "Ben Stokes",
+    "PlayerCountry": "England",
+    "playerType": "All-rounder",
+    "rating": 88,
+    "batingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "price": 1600000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/zWn9Txgd/download-2.jpg",
+    "playerName": "Mitchell Starc",
+    "PlayerCountry": "Australia",
+    "playerType": "Bowler",
+    "rating": 89,
+    "batingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "price": 1550000
+  }
+]
