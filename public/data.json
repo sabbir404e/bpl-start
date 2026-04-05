@@ -48,5 +48,15 @@
     "batingStyle": "Left-hand bat",
     "bowlingStyle": "Left-arm fast",
     "price": 1550000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/zWn9Txgd/download-2.jpg",
+    "playerName": "Mitchell Starc",
+    "PlayerCountry": "Australia",
+    "playerType": "Bowler",
+    "rating": 89,
+    "batingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "price": 1550000
   }
 ]
