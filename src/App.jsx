@@ -12,7 +12,7 @@ const fetchPlayer = async() => {
 function App() {
 
   const playerPromise = fetchPlayer();
-  const [coin, setCoin] = useState(5000);
+  const [coin, setCoin] = useState(500000000);
 
   return (
     <>
