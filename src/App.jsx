@@ -3,6 +3,7 @@ import './App.css';
 import Banner from './components/hompage/banner/Banner';
 import Players from './components/hompage/players/Players';
 import NavBar from './components/navbar/NavBar';
+import { ToastContainer } from 'react-toastify';
 
 const fetchPlayer = async() => {
   const res = await fetch("/data.json");
@@ -12,7 +13,7 @@ const fetchPlayer = async() => {
 function App() {
 
   const playerPromise = fetchPlayer();
-  const [coin, setCoin] = useState(500000000);
+  const [coin, setCoin] = useState(5000000);
 
   return (
     <>
@@ -21,6 +22,7 @@ function App() {
      <Suspense fallback={<span className="loading loading-spinner loading-lg"></span>}>
        <Players playerPromise={playerPromise} setCoin={setCoin} coin={coin}></Players>
      </Suspense>
+     <ToastContainer></ToastContainer>
     </>
    
   )
